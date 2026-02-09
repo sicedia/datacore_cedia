@@ -1,0 +1,13 @@
+-- =============================================================================
+-- Canonical DDL for CEDIA core model
+-- =============================================================================
+-- This file will contain the core model DDL once defined.
+-- DO NOT invent tables yet; names and relationships are defined iteratively.
+-- =============================================================================
+
+-- -- Example placeholder (do not execute):
+-- -- CREATE TABLE contrato (...);
+-- -- CREATE TABLE producto (...);
+-- -- CREATE TABLE categoria (...);
+-- -- CREATE TABLE paquete (...);
+-- -- CREATE TABLE flexibilizacion (...);

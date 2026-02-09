@@ -1,0 +1,7 @@
+erDiagram
+    CONTRATO ||--o{ PRODUCTO : "has"
+    PRODUCTO }o--|| CATEGORIA : "belongs to"
+    PRODUCTO }o--o{ PAQUETE : "included in"
+    PAQUETE ||--o{ PRODUCTO : "contains"
+    CONTRATO ||--o{ FLEXIBILIZACION : "may have"
+    FLEXIBILIZACION }o--|| PRODUCTO : "affects"
