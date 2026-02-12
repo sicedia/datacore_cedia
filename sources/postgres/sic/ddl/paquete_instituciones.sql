@@ -10,8 +10,7 @@ create table paquete_instituciones
     created_by              integer,
     updated_by              integer,
     created_at              timestamp with time zone default CURRENT_TIMESTAMP,
-    updated_at              timestamp with time zone default CURRENT_TIMESTAMP,
-    institucione            integer,
+    updated_at              timestamp with time zone default CURRENT_TIMESTAMP,    
     capacidad_paquete_cloud integer
 );
 
