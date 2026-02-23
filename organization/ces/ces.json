@@ -1,0 +1,2459 @@
+[
+  {
+    "CODIGO": "1001",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1001.png",
+    "IES": "ESCUELA POLITÉCNICA NACIONAL",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Publica Nacional"
+  },
+  {
+    "CODIGO": "1003",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1003.png",
+    "IES": "ESCUELA SUPERIOR POLITÉCNICA AGROPECUARIA DE MANABÍ MANUEL FÉLIX LÓPEZ - ESPAM MFL",
+    "PROVINCIA": "MANABÍ",
+    "CANTON": "BOLÍVAR",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Publica Nacional"
+  },
+  {
+    "CODIGO": "1002",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1002.png",
+    "IES": "ESCUELA SUPERIOR POLITÉCNICA DE CHIMBORAZO",
+    "PROVINCIA": "CHIMBORAZO",
+    "CANTON": "RIOBAMBA",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Publica Nacional"
+  },
+  {
+    "CODIGO": "1021",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1021.png",
+    "IES": "ESCUELA SUPERIOR POLITÉCNICA DEL LITORAL (ESPOL)",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Publica Nacional"
+  },
+  {
+    "CODIGO": "1026",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1026.png",
+    "IES": "FACULTAD LATINOAMERICANA DE CIENCIAS SOCIALES, FLACSO",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Publica Nacional"
+  },
+  {
+    "CODIGO": "1057",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1057.png",
+    "IES": "INSTITUTO DE ALTOS ESTUDIOS NACIONALES - IAEN",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Publica Nacional"
+  },
+  {
+    "CODIGO": "1018",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1018.png",
+    "IES": "UNIVERSIDAD AGRARIA DEL ECUADOR",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Publica Nacional"
+  },
+  {
+    "CODIGO": "1022",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1022.png",
+    "IES": "UNIVERSIDAD ANDINA SIMÓN BOLÍVAR",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Publica Nacional"
+  },
+  {
+    "CODIGO": "1005",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1005.png",
+    "IES": "UNIVERSIDAD CENTRAL DEL ECUADOR",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Publica Nacional"
+  },
+  {
+    "CODIGO": "1007",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1007.png",
+    "IES": "UNIVERSIDAD DE CUENCA",
+    "PROVINCIA": "AZUAY",
+    "CANTON": "CUENCA",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Publica Nacional"
+  },
+  {
+    "CODIGO": "1006",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1006.png",
+    "IES": "UNIVERSIDAD DE GUAYAQUIL",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Publica Nacional"
+  },
+  {
+    "CODIGO": "1081",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1081.png",
+    "IES": "UNIVERSIDAD DE INVESTIGACIÓN DE TECNOLOGÍA EXPERIMENTAL YACHAY",
+    "PROVINCIA": "IMBABURA",
+    "CANTON": "SAN MIGUEL DE URCUQUÍ",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Publica Nacional"
+  },
+  {
+    "CODIGO": "1082",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1082.png",
+    "IES": "UNIVERSIDAD DE LAS ARTES (UARTES)",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Publica Nacional"
+  },
+  {
+    "CODIGO": "1079",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1079.png",
+    "IES": "UNIVERSIDAD DE LAS FUERZAS ARMADAS-ESPE",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "RUMIÑAHUI",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Publica Nacional"
+  },
+  {
+    "CODIGO": "3068",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/3068.png",
+    "IES": "UNIVERSIDAD DE SEGURIDAD CIUDADANA Y CIENCIAS POLICIALES - USECIPOL",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Publica Nacional"
+  },
+  {
+    "CODIGO": "1058",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1058.png",
+    "IES": "UNIVERSIDAD ESTATAL AMAZÓNICA",
+    "PROVINCIA": "PASTAZA",
+    "CANTON": "PASTAZA",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Publica Nacional"
+  },
+  {
+    "CODIGO": "1017",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1017.png",
+    "IES": "UNIVERSIDAD ESTATAL DE BOLÍVAR",
+    "PROVINCIA": "BOLÍVAR",
+    "CANTON": "GUARANDA",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Publica Nacional"
+  },
+  {
+    "CODIGO": "1024",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1024.png",
+    "IES": "UNIVERSIDAD ESTATAL DE MILAGRO",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "MILAGRO",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Publica Nacional"
+  },
+  {
+    "CODIGO": "1025",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1025.png",
+    "IES": "UNIVERSIDAD ESTATAL DEL SUR DE MANABÍ",
+    "PROVINCIA": "MANABÍ",
+    "CANTON": "JIPIJAPA",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Publica Nacional"
+  },
+  {
+    "CODIGO": "1023",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1023.png",
+    "IES": "UNIVERSIDAD ESTATAL PENÍNSULA DE SANTA ELENA - UPSE",
+    "PROVINCIA": "SANTA ELENA",
+    "CANTON": "LA LIBERTAD",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Publica Nacional"
+  },
+  {
+    "CODIGO": "1068",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1068.png",
+    "IES": "UNIVERSIDAD INTERCULTURAL DE LAS NACIONALIDADES Y PUEBLOS INDÍGENAS AMAWTAY WASI",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Publica Nacional"
+  },
+  {
+    "CODIGO": "1016",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1016.png",
+    "IES": "UNIVERSIDAD LAICA \"ELOY ALFARO\" DE MANABÍ",
+    "PROVINCIA": "MANABÍ",
+    "CANTON": "MANTA",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Publica Nacional"
+  },
+  {
+    "CODIGO": "1019",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1019.png",
+    "IES": "UNIVERSIDAD NACIONAL DE CHIMBORAZO",
+    "PROVINCIA": "CHIMBORAZO",
+    "CANTON": "RIOBAMBA",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Publica Nacional"
+  },
+  {
+    "CODIGO": "1083",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1083.png",
+    "IES": "UNIVERSIDAD NACIONAL DE EDUCACIÓN",
+    "PROVINCIA": "CAÑAR",
+    "CANTON": "AZOGUES",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Publica Nacional"
+  },
+  {
+    "CODIGO": "1008",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1008.png",
+    "IES": "UNIVERSIDAD NACIONAL DE LOJA",
+    "PROVINCIA": "LOJA",
+    "CANTON": "LOJA",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Publica Nacional"
+  },
+  {
+    "CODIGO": "1074",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1074.png",
+    "IES": "UNIVERSIDAD POLITÉCNICA ESTATAL DEL CARCHI",
+    "PROVINCIA": "CARCHI",
+    "CANTON": "TULCÁN",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Publica Nacional"
+  },
+  {
+    "CODIGO": "3069",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/3069.png",
+    "IES": "UNIVERSIDAD PÚBLICA DE SANTO DOMINGO DE LOS TSÁCHILAS",
+    "PROVINCIA": "SANTO DOMINGO DE LOS TSÁCHILAS",
+    "CANTON": "SANTO DOMINGO",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Publica Nacional"
+  },
+  {
+    "CODIGO": "1080",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1080.png",
+    "IES": "UNIVERSIDAD REGIONAL AMAZÓNICA IKIAM",
+    "PROVINCIA": "NAPO",
+    "CANTON": "TENA",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Publica Nacional"
+  },
+  {
+    "CODIGO": "1012",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1012.png",
+    "IES": "UNIVERSIDAD TÉCNICA \"LUIS VARGAS TORRES\" DE ESMERALDAS (UTLVTE)",
+    "PROVINCIA": "ESMERALDAS",
+    "CANTON": "ESMERALDAS",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Publica Nacional"
+  },
+  {
+    "CODIGO": "1010",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1010.png",
+    "IES": "UNIVERSIDAD TÉCNICA DE AMBATO",
+    "PROVINCIA": "TUNGURAHUA",
+    "CANTON": "AMBATO",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Publica Nacional"
+  },
+  {
+    "CODIGO": "1013",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1013.png",
+    "IES": "UNIVERSIDAD TÉCNICA DE BABAHOYO",
+    "PROVINCIA": "LOS RÍOS",
+    "CANTON": "BABAHOYO",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Publica Nacional"
+  },
+  {
+    "CODIGO": "1020",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1020.png",
+    "IES": "UNIVERSIDAD TÉCNICA DE COTOPAXI",
+    "PROVINCIA": "COTOPAXI",
+    "CANTON": "LATACUNGA",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Publica Nacional"
+  },
+  {
+    "CODIGO": "1011",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1011.png",
+    "IES": "UNIVERSIDAD TÉCNICA DE MACHALA",
+    "PROVINCIA": "EL ORO",
+    "CANTON": "MACHALA",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Publica Nacional"
+  },
+  {
+    "CODIGO": "1009",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1009.png",
+    "IES": "UNIVERSIDAD TÉCNICA DE MANABÍ",
+    "PROVINCIA": "MANABÍ",
+    "CANTON": "PORTOVIEJO",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Publica Nacional"
+  },
+  {
+    "CODIGO": "1015",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1015.png",
+    "IES": "UNIVERSIDAD TÉCNICA DEL NORTE",
+    "PROVINCIA": "IMBABURA",
+    "CANTON": "IBARRA",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Publica Nacional"
+  },
+  {
+    "CODIGO": "1014",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1014.png",
+    "IES": "UNIVERSIDAD TÉCNICA ESTATAL DE QUEVEDO",
+    "PROVINCIA": "LOS RÍOS",
+    "CANTON": "QUEVEDO",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Publica Nacional"
+  },
+  {
+    "CODIGO": "3027",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/3027.png",
+    "IES": "UNIVERSIDAD BOLIVARIANA DEL ECUADOR",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "DURÁN",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Particulares Autofinanciadas"
+  },
+  {
+    "CODIGO": "1049",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1049.png",
+    "IES": "UNIVERSIDAD CASA GRANDE",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Particulares Autofinanciadas"
+  },
+  {
+    "CODIGO": "1037",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1037.png",
+    "IES": "UNIVERSIDAD DE ESPECIALIDADES ESPÍRITU SANTO - UEES",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "SAMBORONDÓN",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Particulares Autofinanciadas"
+  },
+  {
+    "CODIGO": "1053",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1053.png",
+    "IES": "UNIVERSIDAD DE ESPECIALIDADES TURÍSTICAS",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Particulares Autofinanciadas"
+  },
+  {
+    "CODIGO": "1040",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1040.png",
+    "IES": "UNIVERSIDAD DE LAS AMÉRICAS",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Particulares Autofinanciadas"
+  },
+  {
+    "CODIGO": "1070",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1070.png",
+    "IES": "UNIVERSIDAD DE LOS HEMISFERIOS",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Particulares Autofinanciadas"
+  },
+  {
+    "CODIGO": "1059",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1059.png",
+    "IES": "UNIVERSIDAD DE OTAVALO",
+    "PROVINCIA": "IMBABURA",
+    "CANTON": "OTAVALO",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Particulares Autofinanciadas"
+  },
+  {
+    "CODIGO": "1044",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1044.png",
+    "IES": "UNIVERSIDAD DEL PACÍFICO-ESCUELA DE NEGOCIOS",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Particulares Autofinanciadas"
+  },
+  {
+    "CODIGO": "3013",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/3013.png",
+    "IES": "UNIVERSIDAD DEL RÍO-UDR",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Particulares Autofinanciadas"
+  },
+  {
+    "CODIGO": "1073",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1073.png",
+    "IES": "UNIVERSIDAD IBEROAMERICANA DEL ECUADOR",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Particulares Autofinanciadas"
+  },
+  {
+    "CODIGO": "1041",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1041.png",
+    "IES": "UNIVERSIDAD INTERNACIONAL DEL ECUADOR (UIDE)",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Particulares Autofinanciadas"
+  },
+  {
+    "CODIGO": "1056",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1056.png",
+    "IES": "UNIVERSIDAD METROPOLITANA",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Particulares Autofinanciadas"
+  },
+  {
+    "CODIGO": "1036",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1036.png",
+    "IES": "UNIVERSIDAD PARTICULAR INTERNACIONAL SEK",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Particulares Autofinanciadas"
+  },
+  {
+    "CODIGO": "1042",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1042.png",
+    "IES": "UNIVERSIDAD REGIONAL AUTÓNOMA DE LOS ANDES \"UNIANDES\"",
+    "PROVINCIA": "TUNGURAHUA",
+    "CANTON": "AMBATO",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Particulares Autofinanciadas"
+  },
+  {
+    "CODIGO": "1038",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1038.png",
+    "IES": "UNIVERSIDAD SAN FRANCISCO DE QUITO USFQ",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Particulares Autofinanciadas"
+  },
+  {
+    "CODIGO": "1060",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1060.png",
+    "IES": "UNIVERSIDAD SAN GREGORIO DE PORTOVIEJO",
+    "PROVINCIA": "MANABÍ",
+    "CANTON": "PORTOVIEJO",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Particulares Autofinanciadas"
+  },
+  {
+    "CODIGO": "1077",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1077.png",
+    "IES": "UNIVERSIDAD TECNOLÓGICA ECOTEC",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "SAMBORONDÓN",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Particulares Autofinanciadas"
+  },
+  {
+    "CODIGO": "1050",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1050.png",
+    "IES": "UNIVERSIDAD TECNOLÓGICA EMPRESARIAL DE GUAYAQUIL",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Particulares Autofinanciadas"
+  },
+  {
+    "CODIGO": "1045",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1045.png",
+    "IES": "UNIVERSIDAD TECNOLÓGICA INDOAMÉRICA",
+    "PROVINCIA": "TUNGURAHUA",
+    "CANTON": "AMBATO",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Particulares Autofinanciadas"
+  },
+  {
+    "CODIGO": "1051",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1051.png",
+    "IES": "UNIVERSIDAD TECNOLÓGICA ISRAEL",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Particulares Autofinanciadas"
+  },
+  {
+    "CODIGO": "1027",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1027.png",
+    "IES": "PONTIFICIA UNIVERSIDAD CATÓLICA DEL ECUADOR",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Particulares Cofinanciadas"
+  },
+  {
+    "CODIGO": "1029",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1029.png",
+    "IES": "UNIVERSIDAD CATÓLICA DE CUENCA",
+    "PROVINCIA": "AZUAY",
+    "CANTON": "CUENCA",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Particulares Cofinanciadas"
+  },
+  {
+    "CODIGO": "1028",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1028.png",
+    "IES": "UNIVERSIDAD CATÓLICA DE SANTIAGO DE GUAYAQUIL (UCSG)",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Particulares Cofinanciadas"
+  },
+  {
+    "CODIGO": "1033",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1033.png",
+    "IES": "UNIVERSIDAD DEL AZUAY",
+    "PROVINCIA": "AZUAY",
+    "CANTON": "CUENCA",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Particulares Cofinanciadas"
+  },
+  {
+    "CODIGO": "1030",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1030.png",
+    "IES": "UNIVERSIDAD LAICA VICENTE ROCAFUERTE DE GUAYAQUIL",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Particulares Cofinanciadas"
+  },
+  {
+    "CODIGO": "1034",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1034.png",
+    "IES": "UNIVERSIDAD POLITÉCNICA SALESIANA - UPS",
+    "PROVINCIA": "AZUAY",
+    "CANTON": "CUENCA",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Particulares Cofinanciadas"
+  },
+  {
+    "CODIGO": "1031",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1031.png",
+    "IES": "UNIVERSIDAD TÉCNICA PARTICULAR DE LOJA",
+    "PROVINCIA": "LOJA",
+    "CANTON": "LOJA",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Particulares Cofinanciadas"
+  },
+  {
+    "CODIGO": "1032",
+    "LOGO": "https://www.ces.gob.ec/LOGOS_IES/1032.png",
+    "IES": "UNIVERSIDAD UTE",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Universidades y Escuelas Politecnicas",
+    "TIPO": "Particulares Cofinanciadas"
+  },
+  {
+    "CODIGO": "2367",
+    "LOGO": "",
+    "IES": "CONSERVATORIO SUPERIOR DE MÚSICA JOSÉ MARÍA RODRÍGUEZ",
+    "PROVINCIA": "AZUAY",
+    "CANTON": "CUENCA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "3010",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO DEL AZUAY",
+    "PROVINCIA": "AZUAY",
+    "CANTON": "CUENCA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2067",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO EL LIBERTADOR",
+    "PROVINCIA": "BOLÍVAR",
+    "CANTON": "CHIMBO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2007",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO ALFONSO HERRERA",
+    "PROVINCIA": "CARCHI",
+    "CANTON": "ESPEJO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2029",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO VICENTE FIERRO",
+    "PROVINCIA": "CARCHI",
+    "CANTON": "TULCÁN",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2070",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO LA TRONCAL",
+    "PROVINCIA": "CAÑAR",
+    "CANTON": "LA TRONCAL",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2138",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO DEL AUSTRO",
+    "PROVINCIA": "CAÑAR",
+    "CANTON": "AZOGUES",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2363",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR PEDAGÓGICO INTERCULTURAL BILINGÜE QUILLOAC",
+    "PROVINCIA": "CAÑAR",
+    "CANTON": "CAÑAR",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2001",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO CARLOS CISNEROS",
+    "PROVINCIA": "CHIMBORAZO",
+    "CANTON": "RIOBAMBA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2259",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO RIOBAMBA",
+    "PROVINCIA": "CHIMBORAZO",
+    "CANTON": "RIOBAMBA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2305",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO MANUEL GALECIO",
+    "PROVINCIA": "CHIMBORAZO",
+    "CANTON": "ALAUSÍ",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2362",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR PEDAGÓGICO INTERCULTURAL BILINGÜE JAIME ROLDÓS AGUILERA",
+    "PROVINCIA": "CHIMBORAZO",
+    "CANTON": "COLTA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2065",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO LA MANÁ",
+    "PROVINCIA": "COTOPAXI",
+    "CANTON": "LA MANÁ",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2068",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO SIMÓN RODRÍGUEZ",
+    "PROVINCIA": "COTOPAXI",
+    "CANTON": "LATACUNGA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2071",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO VICENTE LEÓN",
+    "PROVINCIA": "COTOPAXI",
+    "CANTON": "LATACUNGA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "3008",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO COTOPAXI",
+    "PROVINCIA": "COTOPAXI",
+    "CANTON": "LATACUNGA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2017",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO HUAQUILLAS",
+    "PROVINCIA": "EL ORO",
+    "CANTON": "HUAQUILLAS",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2020",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO ISMAEL PÉREZ PAZMIÑO",
+    "PROVINCIA": "EL ORO",
+    "CANTON": "MACHALA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2027",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO OCHO DE NOVIEMBRE",
+    "PROVINCIA": "EL ORO",
+    "CANTON": "PIÑAS",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2036",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO ALBERTO ENRÍQUEZ",
+    "PROVINCIA": "ESMERALDAS",
+    "CANTON": "SAN LORENZO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2254",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO LUIS TELLO",
+    "PROVINCIA": "ESMERALDAS",
+    "CANTON": "ESMERALDAS",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2255",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO QUININDÉ",
+    "PROVINCIA": "ESMERALDAS",
+    "CANTON": "QUININDÉ",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2220",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO GALÁPAGOS",
+    "PROVINCIA": "GALÁPAGOS",
+    "CANTON": "SANTA CRUZ",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2116",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO GUAYAQUIL",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2118",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO JUAN BAUTISTA AGUIRRE",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "DAULE",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2126",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO SIMÓN BOLÍVAR",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2329",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO DE ARTES DEL ECUADOR (ITAE)",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2371",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO VICENTE ROCAFUERTE",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2038",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO COTACACHI",
+    "PROVINCIA": "IMBABURA",
+    "CANTON": "COTACACHI",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2039",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO 17 DE JULIO",
+    "PROVINCIA": "IMBABURA",
+    "CANTON": "SAN MIGUEL DE URCUQUÍ",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2245",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO DE ARTES PLÁSTICAS DANIEL REYES",
+    "PROVINCIA": "IMBABURA",
+    "CANTON": "IBARRA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2247",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO LUIS ULPIANO DE LA TORRE",
+    "PROVINCIA": "IMBABURA",
+    "CANTON": "COTACACHI",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2047",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO CARIAMANGA",
+    "PROVINCIA": "LOJA",
+    "CANTON": "CALVAS",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2289",
+    "LOGO": "",
+    "IES": "CONSERVATORIO SUPERIOR SALVADOR BUSTAMANTE CELI",
+    "PROVINCIA": "LOJA",
+    "CANTON": "LOJA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "3012",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO LOJA",
+    "PROVINCIA": "LOJA",
+    "CANTON": "LOJA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2208",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO BABAHOYO",
+    "PROVINCIA": "LOS RÍOS",
+    "CANTON": "BABAHOYO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2209",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO CIUDAD DE VALENCIA",
+    "PROVINCIA": "LOS RÍOS",
+    "CANTON": "QUEVEDO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2094",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO LUIS ARBOLEDA MARTÍNEZ",
+    "PROVINCIA": "MANABÍ",
+    "CANTON": "MANTA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2096",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO PAULO EMILIO MACÍAS",
+    "PROVINCIA": "MANABÍ",
+    "CANTON": "PORTOVIEJO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2280",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO LIMÓN",
+    "PROVINCIA": "MORONA SANTIAGO",
+    "CANTON": "LIMÓN INDANZA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2365",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR PEDAGÓGICO INTERCULTURAL BILINGÜE SHUAR-ACHUAR",
+    "PROVINCIA": "MORONA SANTIAGO",
+    "CANTON": "GUALAQUIZA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "3005",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO SUCÚA",
+    "PROVINCIA": "MORONA SANTIAGO",
+    "CANTON": "SUCÚA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2079",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO TENA",
+    "PROVINCIA": "NAPO",
+    "CANTON": "TENA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2053",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO GENERAL ELOY ALFARO",
+    "PROVINCIA": "ORELLANA",
+    "CANTON": "LA JOYA DE LOS SACHAS",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2102",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO FRANCISCO DE ORELLANA",
+    "PROVINCIA": "PASTAZA",
+    "CANTON": "PASTAZA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2366",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR PEDAGÓGICO INTERCULTURAL BILINGÜE CANELOS",
+    "PROVINCIA": "PASTAZA",
+    "CANTON": "PASTAZA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2183",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO LOS SHYRIS",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2189",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO NELSON TORRES",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "CAYAMBE",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2192",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO POLICÍA NACIONAL",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2200",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO SUCRE",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2223",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO ARTESANAL",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2239",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO CENTRAL TÉCNICO",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2243",
+    "LOGO": "",
+    "IES": "CONSERVATORIO SUPERIOR NACIONAL DE MÚSICA",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "3009",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO DE TURISMO Y PATRIMONIO YAVIRAC",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "3076",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO DE CONTROL GUBERNAMENTAL ISIDRO AYORA-ISTIA",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2206",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO \"CENTRO TECNOLÓGICO NAVAL\"",
+    "PROVINCIA": "SANTA ELENA",
+    "CANTON": "SALINAS",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "3007",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO TSA'CHILA",
+    "PROVINCIA": "SANTO DOMINGO DE LOS TSÁCHILAS",
+    "CANTON": "SANTO DOMINGO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2364",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO MARTHA BUCARAM DE ROLDÓS",
+    "PROVINCIA": "SUCUMBÍOS",
+    "CANTON": "LAGO AGRIO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2215",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO BOLÍVAR",
+    "PROVINCIA": "TUNGURAHUA",
+    "CANTON": "AMBATO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2229",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO TUNGURAHUA",
+    "PROVINCIA": "TUNGURAHUA",
+    "CANTON": "AMBATO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2231",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO PELILEO",
+    "PROVINCIA": "TUNGURAHUA",
+    "CANTON": "SAN PEDRO DE PELILEO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2082",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO AMAZÓNICO",
+    "PROVINCIA": "ZAMORA CHINCHIPE",
+    "CANTON": "YANTZAZA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Públicos"
+  },
+  {
+    "CODIGO": "2008",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO AMERICAN COLLEGE",
+    "PROVINCIA": "AZUAY",
+    "CANTON": "CUENCA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2018",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO PARTICULAR INTEGRACIÓN ANDINA",
+    "PROVINCIA": "AZUAY",
+    "CANTON": "CUENCA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2024",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO PARTICULAR SUDAMERICANO",
+    "PROVINCIA": "AZUAY",
+    "CANTON": "CUENCA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2385",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO KEVIN",
+    "PROVINCIA": "AZUAY",
+    "CANTON": "CUENCA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2401",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO SAN ISIDRO",
+    "PROVINCIA": "AZUAY",
+    "CANTON": "CUENCA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3022",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO TECNIEMPRESARIAL WISSEN",
+    "PROVINCIA": "AZUAY",
+    "CANTON": "CUENCA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3024",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO DE LA ECONOMÍA SOCIAL, POPULAR Y SOLIDARIA",
+    "PROVINCIA": "AZUAY",
+    "CANTON": "CUENCA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3030",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO ALQUIMIA",
+    "PROVINCIA": "AZUAY",
+    "CANTON": "CUENCA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2004",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO STANFORD",
+    "PROVINCIA": "CHIMBORAZO",
+    "CANTON": "RIOBAMBA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2006",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO REPÚBLICA FEDERAL DE ALEMANIA",
+    "PROVINCIA": "CHIMBORAZO",
+    "CANTON": "RIOBAMBA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2056",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO JATUN YACHAY WASI",
+    "PROVINCIA": "CHIMBORAZO",
+    "CANTON": "COLTA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2059",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO DR. MISAEL ACOSTA SOLÍS",
+    "PROVINCIA": "CHIMBORAZO",
+    "CANTON": "RIOBAMBA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2260",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO SAN GABRIEL",
+    "PROVINCIA": "CHIMBORAZO",
+    "CANTON": "RIOBAMBA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2271",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO JOSÉ ORTEGA Y GASSET",
+    "PROVINCIA": "CHIMBORAZO",
+    "CANTON": "RIOBAMBA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3003",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO NEW GENERATION",
+    "PROVINCIA": "CHIMBORAZO",
+    "CANTON": "RIOBAMBA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3033",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO LÍDERES DE LOS ANDES",
+    "PROVINCIA": "CHIMBORAZO",
+    "CANTON": "RIOBAMBA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3057",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO CUMANDÁ",
+    "PROVINCIA": "CHIMBORAZO",
+    "CANTON": "CUMANDÁ",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3063",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO INTERNACIONAL \"SAN LUIS\" (ITSAL)",
+    "PROVINCIA": "CHIMBORAZO",
+    "CANTON": "RIOBAMBA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2011",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO PARTICULAR BOLÍVAR MADERO VARGAS",
+    "PROVINCIA": "EL ORO",
+    "CANTON": "MACHALA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2023",
+    "LOGO": "",
+    "IES": "INSTITUTO TECNOLÓGICO SUPERIOR JUBONES",
+    "PROVINCIA": "EL ORO",
+    "CANTON": "PASAJE",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2107",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO ESPÍRITU SANTO",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2112",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO DE ESTUDIOS DE TELEVISIÓN-ITV",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2113",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO EURODISEÑO DEL ECUADOR",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2115",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO GRÁFICO DE ARTES Y CIENCIAS DIGITALES",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2120",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO LICEO CRISTIANO",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2121",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO LIFE COLLEGE INTERNATIONAL",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2125",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO REY DAVID",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "DAULE",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2127",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO SPEEDWRITING",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2128",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO SUDAMERICANO",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2130",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO URDESA",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2153",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO ALMIRANTE ILLINGWORTH",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2158",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO ARGOS",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2164",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO BLUE HILL COLLEGE",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2258",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO DE FORMACIÓN PROFESIONAL ADMINISTRATIVA Y COMERCIAL",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2270",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO DE FÚTBOL",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2295",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO LATINOAMERICANO DE EXPRESIONES ARTÍSTICAS",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2339",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO ESCUELA DE LOS CHEFS DE GUAYAQUIL",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2360",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO EUROAMERICANO",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2376",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO BENJAMÍN ROSALES PAREJA",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2379",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO \"HUMANE\"",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2397",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO BOLIVARIANO DE TECNOLOGÍA",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3002",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TÉCNICO AMERICANO",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3011",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO MEDIFORM",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3015",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO DE IMAGEN Y SONIDO PARADOX",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3020",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO LEMAS",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3021",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO TECNÓPOLIS",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "GUAYAQUIL",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3047",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO ÁGUILAS DE CRISTO",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "PLAYAS",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3056",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO DE FORMACIÓN Y PROFESIONALIZACIÓN \"ACTIONGROW\"",
+    "PROVINCIA": "GUAYAS",
+    "CANTON": "NOBOL",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2040",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO IBARRA",
+    "PROVINCIA": "IMBABURA",
+    "CANTON": "IBARRA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2041",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO \"ITCA\"",
+    "PROVINCIA": "IMBABURA",
+    "CANTON": "IBARRA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2042",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO LICEO ADUANERO",
+    "PROVINCIA": "IMBABURA",
+    "CANTON": "IBARRA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2015",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO LOS ANDES",
+    "PROVINCIA": "LOJA",
+    "CANTON": "LOJA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2048",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO LA CASTELLANA",
+    "PROVINCIA": "LOJA",
+    "CANTON": "LOJA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2049",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO MARIANO SAMANIEGO",
+    "PROVINCIA": "LOJA",
+    "CANTON": "CALVAS",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2050",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO DANIEL ÁLVAREZ BURNEO",
+    "PROVINCIA": "LOJA",
+    "CANTON": "LOJA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2051",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO NUESTRA SEÑORA DEL ROSARIO",
+    "PROVINCIA": "LOJA",
+    "CANTON": "CATAMAYO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2073",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO SUDAMERICANO",
+    "PROVINCIA": "LOJA",
+    "CANTON": "LOJA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2269",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO JUAN MONTALVO",
+    "PROVINCIA": "LOJA",
+    "CANTON": "LOJA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2383",
+    "LOGO": "",
+    "IES": "CONSERVATORIO SUPERIOR PARTICULAR DE ARTE ANTON BRUCKNER",
+    "PROVINCIA": "LOJA",
+    "CANTON": "LOJA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2402",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO BOLIVARIANO",
+    "PROVINCIA": "LOJA",
+    "CANTON": "LOJA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2097",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO PORTOVIEJO",
+    "PROVINCIA": "MANABÍ",
+    "CANTON": "PORTOVIEJO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2338",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO DE CIENCIAS RELIGIOSAS Y EDUCACIÓN EN VALORES \"SAN PEDRO\"",
+    "PROVINCIA": "MANABÍ",
+    "CANTON": "PORTOVIEJO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3044",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO FARO",
+    "PROVINCIA": "MANABÍ",
+    "CANTON": "MANTA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3055",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO IBEROAMERICANO",
+    "PROVINCIA": "MANABÍ",
+    "CANTON": "MANTA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3058",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO DE INNOVACIÓN, CULTURA Y ARTES LIBERALES \"IICAL\"",
+    "PROVINCIA": "MANABÍ",
+    "CANTON": "PUERTO LÓPEZ",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2386",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO ORIENTE",
+    "PROVINCIA": "ORELLANA",
+    "CANTON": "LA JOYA DE LOS SACHAS",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3042",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO CIC YASUNÍ",
+    "PROVINCIA": "PASTAZA",
+    "CANTON": "PASTAZA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2133",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO CUEST T.V.",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2137",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO DE ARTES VISUALES",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2142",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO DE RADIO Y TELEVISIÓN",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2143",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO \"DE TECNOLOGÍAS APROPIADAS\" - INSTA",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2146",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO DISMOD",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2148",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO ECUATORIANO DE PRODUCTIVIDAD",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2150",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO EL PACÍFICO",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2151",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO CONSULTING GROUP ECUADOR",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2154",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO DE ESTUDIOS INTEGRALES 'ITSEI'",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2160",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO PICHINCHA",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2161",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO INTEGRACIÓN ANDINA",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2173",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO ISMAC",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2174",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO JAPÓN",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2179",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO LENDAN",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2181",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO PARTICULAR LOS ANDES DE ESTUDIOS SOCIALES - ILADES",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2185",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO PARA EL DESARROLLO ISPADE",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2186",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO DE FÚTBOL DE QUITO - ISTFQ",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2194",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO PROYECTO 2000",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "CAYAMBE",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2195",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO QUITO",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2196",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO QUITO METROPOLITANO",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2198",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO RUMIÑAHUI",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "RUMIÑAHUI",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2201",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO SUDAMERICANO",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2202",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO UNIVERSITEC",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2204",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO VIDA NUEVA",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2236",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO BERNARDO OHIGGINS",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2237",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO CENESTUR",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2246",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO COMPU SUR",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2249",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO CORPORATIVO EDWARDS DEMING",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2250",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO CORDILLERA",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2267",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO METROPOLITANO",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2277",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO CEMLAD",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2284",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO DE MARKETING Y ADMINISTRACIÓN",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2287",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO TECNOECUATORIANO",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2293",
+    "LOGO": "",
+    "IES": "CONSERVATORIO SUPERIOR DE MÚSICA \"JAIME MOLA\"",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2294",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO METHA INSTITUTE",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2331",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO COMUNIDAD, RIESGOS Y EMERGENCIAS - ISTCRE",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2340",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO CRE-SER",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2373",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO DEL TRANSPORTE",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2374",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO DE CINE Y ACTUACIÓN, INCINE",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2377",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO MAYOR PEDRO TRAVERSARI",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3004",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO LIBERTAD",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3006",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO INTERNACIONAL ITI",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3014",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO KACHARIY",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3016",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO DE MOVILIDAD E INNOVACIÓN - MOVILIS",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3017",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO SUPERARSE",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "RUMIÑAHUI",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3026",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO SAN ANTONIO",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3028",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO NIKOLA TESLA",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "CAYAMBE",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3029",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO DE LA VERA CRUZ",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3031",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO \"MEJÍA\"",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "MEJÍA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3036",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR PEDAGÓGICO INEPE",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3039",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO YARUQUÍ",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3041",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO BLEZ",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3046",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO DE TECNOLOGÍAS INTELIGENTES (INSTTI)",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "MEJÍA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3048",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO DE TÉCNICAS EMPRESARIALES Y DEL CONOCIMIENTO \"INTEC\"",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3050",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO CENTRO IBEROAMERICANO DE PROFESIONALIZACIÓN",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3051",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO ANDRÉS BELLO",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3053",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO DE INVESTIGACIÓN CIENTÍFICA E INNOVACIÓN (ISTICI)",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3054",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO BIOTEC",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3060",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO EL QUINDE INSTEQ",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3061",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO POLITÉCNICA DEL ECUADOR - POLITEC",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3062",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO UPECU",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3066",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO CENTRO LATINOAMERICANO DE INTELIGENCIA COLECTIVA ESQUEL (ESQUEL CLIC)",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3067",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO KRUGER TEK",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3070",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO DE INNOVACIÓN Y DESARROLLO EMPRESARIAL ALEMÁN-IIDEA",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3071",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO DE MÚSICA CONTEMPORÁNEA \"IMC\"",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3077",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO EN CIENCIAS INTEGRALES, INNOVACIÓN Y SOSTENIBILIDAD ALFATEC",
+    "PROVINCIA": "PICHINCHA",
+    "CANTON": "DISTRITO METROPOLITANO DE QUITO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2141",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO ATLANTIC",
+    "PROVINCIA": "SANTO DOMINGO DE LOS TSÁCHILAS",
+    "CANTON": "SANTO DOMINGO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2182",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO LOS ANDES",
+    "PROVINCIA": "SANTO DOMINGO DE LOS TSÁCHILAS",
+    "CANTON": "SANTO DOMINGO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2275",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO ADVENTISTA DEL ECUADOR",
+    "PROVINCIA": "SANTO DOMINGO DE LOS TSÁCHILAS",
+    "CANTON": "SANTO DOMINGO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3043",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO BET-EL",
+    "PROVINCIA": "SANTO DOMINGO DE LOS TSÁCHILAS",
+    "CANTON": "LA CONCORDIA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2375",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO CRECERMAS",
+    "PROVINCIA": "SUCUMBÍOS",
+    "CANTON": "LAGO AGRIO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3049",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO REGIONAL \"NUEVA LOJA\"",
+    "PROVINCIA": "SUCUMBÍOS",
+    "CANTON": "LAGO AGRIO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2217",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO ESPAÑA",
+    "PROVINCIA": "TUNGURAHUA",
+    "CANTON": "AMBATO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2285",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO EDUPRAXIS",
+    "PROVINCIA": "TUNGURAHUA",
+    "CANTON": "AMBATO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2378",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO MANUEL LEZAETA ACHARÁN",
+    "PROVINCIA": "TUNGURAHUA",
+    "CANTON": "AMBATO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2440",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO \"EL CÓNDOR\" (I.S.T.E.C)",
+    "PROVINCIA": "TUNGURAHUA",
+    "CANTON": "AMBATO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3052",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO UMA",
+    "PROVINCIA": "TUNGURAHUA",
+    "CANTON": "AMBATO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3064",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO MENNTUN \"ISTME\"",
+    "PROVINCIA": "TUNGURAHUA",
+    "CANTON": "AMBATO",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "2081",
+    "LOGO": "",
+    "IES": "INSTITUTO TECNOLÓGICO SUPERIOR FISCOMISIONAL JUAN XXIII",
+    "PROVINCIA": "ZAMORA CHINCHIPE",
+    "CANTON": "YANTZAZA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  },
+  {
+    "CODIGO": "3065",
+    "LOGO": "",
+    "IES": "INSTITUTO SUPERIOR TECNOLÓGICO D. E. ZAMORA",
+    "PROVINCIA": "ZAMORA CHINCHIPE",
+    "CANTON": "ZAMORA",
+    "CATEGORIA": "Institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores",
+    "TIPO": "Particulares"
+  }
+]
